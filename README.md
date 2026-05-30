@@ -10,4 +10,4 @@
 6. Run the app on an emulator or physical device
 
 ------------------------------------------------------
-[📥 Download Flashlight APK](sha256:f41a631fbd5642e9b866fbb670e9c6abe762f6a8417bcf8fbb06745b9f4220fe)
+[📥 Download Flashlight APK](https://github.com/sairo001/Flashlight-Application/releases/tag/v1.0.0/flashlight.apk)
