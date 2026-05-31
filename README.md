@@ -11,3 +11,12 @@
 
 ------------------------------------------------------
 [📥 Download Flashlight APK](https://github.com/sairo001/Flashlight-Application/releases/tag/v1.0.0/flashlight.apk)
+------------------------------------------------------
+
+Lite version: Also able to 
+Runable for
+## Android version: 4.4.4 
+or ++
+--------------------------------------------------------
+[📥 Download Light APK](https://github.com/sairo001/Flashlight-Application/releases/tag/v1.0.0/Light.apk)
+--------------------------------------------------------
